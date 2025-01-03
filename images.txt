@@ -3,6 +3,6 @@ redis:6.0.8
 mariadb:10.3.0
 minio/minio:latest
 nacos/nacos-server:v2.2.0
-gogs/gogs
+gogs/gogs --platform linux/arm64
 
---platform=linux/arm64
+
