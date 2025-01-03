@@ -4,3 +4,5 @@ mariadb:10.3.0
 minio/minio:latest
 nacos/nacos-server:v2.2.0
 gogs/gogs
+
+--platform=linux/arm64 linux/amd64 
