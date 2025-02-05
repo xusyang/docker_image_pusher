@@ -1,9 +1,9 @@
 --platform linux/arm64 nginx
+nginx:latest
 redis:6.0.8
 mariadb:10.3.0
-minio/minio:latest
 nacos/nacos-server:v2.2.0
-gogs/gogs
 gitlab/gitlab-ce:17.6.4-ce.0
-
-
+jenkins/jenkins:2.496-jdk21
+minio/minio:latest
+gogs/gogs
