@@ -4,5 +4,6 @@ mariadb:10.3.0
 minio/minio:latest
 nacos/nacos-server:v2.2.0
 gogs/gogs
+gitlab/gitlab-ce:17.6.4-ce.0
 
 
