@@ -8,3 +8,4 @@ jenkins/jenkins:2.496-jdk21
 minio/minio:latest
 gogs/gogs
 sonatype/nexus3:3.70.4
+qdrant/qdrant
