@@ -10,11 +10,11 @@ gogs/gogs
 sonatype/nexus3:3.70.4
 qdrant/qdrant
 
---platform linux/arm64 langgenius/dify-web:1.20
---platform linux/arm64 langgenius/dify-api:1.20
---platform linux/arm64 langgenius/dify-sandbox:0.2.11
---platform linux/arm64 redis:6-alpine
---platform linux/arm64 postgres:15-alpine
---platform linux/arm64 semitechnologies/weaviate:1.19.0
---platform linux/arm64 nginx:latest
---platform linux/arm64 ubuntu/squid:latest
+--platform linux/amd64 langgenius/dify-web:1.20
+--platform linux/amd64 langgenius/dify-api:1.20
+--platform linux/amd64 langgenius/dify-sandbox:0.2.11
+--platform linux/amd64 redis:6-alpine
+--platform linux/amd64 postgres:15-alpine
+--platform linux/amd64 semitechnologies/weaviate:1.19.0
+--platform linux/amd64 nginx:latest
+--platform linux/amd64 ubuntu/squid:latest
