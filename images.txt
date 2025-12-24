@@ -1,1 +1,2 @@
 --platform linux/amd64 langgenius/dify-sandbox:0.2.11
+--platform linux/amd64 postgres:15-alpine
